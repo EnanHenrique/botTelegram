@@ -2,7 +2,7 @@ from datetime import datetime
 import logging as LOG
 from operator import length_hint
 
-LOG.basicConfig(filename="messages.log", level=LOG.INFO, encoding="utf_8", format='%(message)s')
+LOG.basicConfig(filename="messages.log", level=LOG.INFO, format='%(message)s')
 
 def save_log(date, message, status, *args): # *args são argumentos opcionais
 
