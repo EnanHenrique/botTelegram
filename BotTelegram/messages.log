@@ -1,0 +1,33 @@
+['2022-02-26 00-04-52', 'Message received on 2022-02-26 ate 00-04-52', {'status': {200}}]
+
+ERROR:
+['2022-02-26 00-04-55', {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat_id is empty'}]
+
+['2022-02-26 00-05-41', 'Message received on 2022-02-26 ate 00-05-41', {'status': {200}}]
+
+['2022-02-26 00-07-00', 'Message received on 2022-02-26 ate 00-07-00', {'status': {200}}]
+
+ERROR:
+['2022-02-26 00-07-09', {'ok': False, 'error_code': 400, 'description': 'Bad Request: message text is empty'}]
+
+ERROR:
+['2022-02-26 00-07-21', {'ok': False, 'error_code': 400, 'description': 'Bad Request: message text is empty'}]
+
+['2022-02-26 00-07-30', 'Message received on 2022-02-26 ate 00-07-30', {'status': {200}}]
+
+ERROR:
+['2022-02-26 00-15-48', {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}]
+
+ERROR:
+['2022-02-26 00-17-58', {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}]
+
+ERROR:
+['2022-02-26 00-18-20', {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}]
+
+ERROR:
+['2022-02-26 00-19-13', {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}]
+
+['2022-02-26 00-19-58', 'Message received on 2022-02-26 at 00-19-58', {'status': {200}}]
+
+['2022-02-26 00-35-06', "<_io.BufferedWriter name='C:\\\\Users\\\\SETH\\\\Documents\\\\Pasta1.xlsx'>", {'status': {200}}]
+
